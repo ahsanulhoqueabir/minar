@@ -1,0 +1,9 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cmd /c \"$workspaceRoot\\run.bat\"",
+        "c": "cmd /c \"$workspaceRoot\\run.bat\""
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true
+}
